@@ -1,3 +1,2 @@
 # rsshool-cv
-
-https://github.com/Bobbbba/rsschool-cv/edit/gh-pages/README.md
+https://github.com/Bobbbba/rsschool-cv/blob/gh-pages/cv.md
